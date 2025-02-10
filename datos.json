@@ -1,0 +1,157 @@
+[
+    {
+        "node": 127,
+        "text": "Brasil",
+        "answer": true
+    },
+    {
+        "node": 23,
+        "text": "Argentina",
+        "answer": true
+    },
+    {
+        "node": 1,
+        "text": "se habla espaniol",
+        "answer": false
+    },
+    {
+        "node": 111,
+        "text": "Francia",
+        "answer": true
+    },
+    {
+        "node": 3,
+        "text": "se encuentra en Europa",
+        "answer": false
+    },
+    {
+        "node": 29,
+        "text": "China",
+        "answer": true
+    },
+    {
+        "node": 7,
+        "text": "se encuentra en Asia",
+        "answer": false
+    },
+    {
+        "node": 28,
+        "text": "India",
+        "answer": true
+    },
+    {
+        "node": 14,
+        "text": "tiene selva",
+        "answer": false
+    },
+    {
+        "node": 4,
+        "text": "Espania",
+        "answer": true
+    },
+    {
+        "node": 2,
+        "text": "esta en Europa",
+        "answer": false
+    },
+    {
+        "node": 12,
+        "text": "Italia",
+        "answer": true
+    },
+    {
+        "node": 6,
+        "text": "tiene muy buena pasta",
+        "answer": false
+    },
+    {
+        "node": 30,
+        "text": "Egipto",
+        "answer": true
+    },
+    {
+        "node": 15,
+        "text": "tiene piramides",
+        "answer": false
+    },
+    {
+        "node": 26,
+        "text": "Finlandia",
+        "answer": true
+    },
+    {
+        "node": 13,
+        "text": "es muy frecuente ver auroras boreales",
+        "answer": false
+    },
+    {
+        "node": 62,
+        "text": "Canada",
+        "answer": true
+    },
+    {
+        "node": 31,
+        "text": "se encuentra en Norteamerica",
+        "answer": false
+    },
+    {
+        "node": 126,
+        "text": "Madagascar",
+        "answer": true
+    },
+    {
+        "node": 63,
+        "text": "se encuentra en Africa",
+        "answer": false
+    },
+    {
+        "node": 109,
+        "text": "Luxemburgo",
+        "answer": true
+    },
+    {
+        "node": 27,
+        "text": "tiene un territorio pequenio",
+        "answer": false
+    },
+    {
+        "node": 10,
+        "text": "Uruguay",
+        "answer": true
+    },
+    {
+        "node": 5,
+        "text": "tiene dos mundiales",
+        "answer": false
+    },
+    {
+        "node": 22,
+        "text": "Colombia",
+        "answer": true
+    },
+    {
+        "node": 11,
+        "text": "tiene una bandera tricolor",
+        "answer": false
+    },
+    {
+        "node": 110,
+        "text": "Alemania",
+        "answer": true
+    },
+    {
+        "node": 55,
+        "text": "tiene mucha cerveza",
+        "answer": false
+    },
+    {
+        "node": 108,
+        "text": "Malta",
+        "answer": true
+    },
+    {
+        "node": 54,
+        "text": "tiene una bandera bicolor",
+        "answer": false
+    }
+]
